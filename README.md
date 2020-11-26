@@ -23,6 +23,8 @@ Les couleurs qui vont à Joséphine ont été scientifiquement choisies par Soph
   * le blanc
   * le gris
 
+TODO : taille saison
+
 ## Jouets
 
 Montessori
