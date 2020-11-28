@@ -23,7 +23,7 @@ Les couleurs qui vont à Joséphine ont été scientifiquement choisies par Soph
   * le blanc
   * le gris
 
-Cette hiver 2020-2021, elleportera du 3 mois.
+Cette hiver 2020-2021, elle portera du 3 mois.
 
 ## Liste noire
 
