@@ -16,21 +16,18 @@ Favorisons :
   
 ## Vêtements
 
-Favorisons le coton et la laine.
+Favorisons le coton et le pilou-pilou.
 
 Les couleurs qui vont à Joséphine ont été scientifiquement choisies par Sophie :
   * le bleu
   * le blanc
   * le gris
 
-TODO : taille saison
-
-## Jouets
-
-Montessori
+Cette hiver 2020-2021, elleportera du 3 mois.
 
 ## Liste noire
 
-Nous ne souaitons pas voir ces objets pour le moment :
+Nous ne souaitons pas avoir ces objets pour le moment :
   * peluches
   * jouets électroniques
+  * tout objet avec une franchise dessus (Disney, Marvel, Star wars...)
